@@ -1,0 +1,19 @@
+WINDOW_SIZE=(800,600)
+map_tiles=(64,64)
+# map_tiles=(10,10)
+fps_delay=1
+MAX_MAGIC_TREES=1
+TILE_SIZE=64
+BUFFER_ZONE=5*TILE_SIZE
+GREETING_DELAY=1
+NUM_DIGITS=3
+BG_COLOUR=(106,190,48)
+MAX_PARTICLES=2000
+
+player_images='resources\images\player'
+magictree_images='resources\images\environment\magictree'
+floor_images='resources\images\environment\\floor'
+tree_images='resources\images\environment\\trees'
+statusbar_alternate='resources\images\statusbar\\alternate_statusbar.png'
+statusbar_default='resources\images\statusbar\default_statusbar.png'
+close_button='resources\images\statusbar\\x.png'
